@@ -1,0 +1,71 @@
+{
+  "profile":
+  [
+  {
+    "id": 0,
+    "name": "George Bluth",
+    "email": "george.bluth@reqres.in",
+    "avatar": "https://reqres.in/img/faces/1-image.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Janet Weaver",
+    "email": "janet.weaver@reqres.in",
+    "avatar": "https://reqres.in/img/faces/2-image.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Emma Wong",
+    "email": "emma.wong@reqres.in",
+    "avatar": "https://reqres.in/img/faces/3-image.jpg"
+  },
+  {
+    "id": 3,
+    "name": "EveHolt",
+    "email": "eve.holt@reqres.in",
+    "avatar": "https://reqres.in/img/faces/4-image.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Charles Morris",
+    "email": "charles.morris@reqres.in",
+    "avatar": "https://reqres.in/img/faces/5-image.jpg"
+  },
+  {
+    "id": 5,
+    "name": "TraceyRamos",
+    "email": "tracey.ramos@reqres.in",
+    "avatar": "https://reqres.in/img/faces/6-image.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Janet Weaver",
+    "email": "janet.weaver@reqres.in",
+    "avatar": "https://reqres.in/img/faces/2-image.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Emma Wong",
+    "email": "emma.wong@reqres.in",
+    "avatar": "https://reqres.in/img/faces/3-image.jpg"
+  },
+  {
+    "id": 8,
+    "name": "EveHolt",
+    "email": "eve.holt@reqres.in",
+    "avatar": "https://reqres.in/img/faces/4-image.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Charles Morris",
+    "email": "charles.morris@reqres.in",
+    "avatar": "https://reqres.in/img/faces/5-image.jpg"
+  },
+  {
+    "id": 10,
+    "name": "TraceyRamos",
+    "email": "tracey.ramos@reqres.in",
+    "avatar": "https://reqres.in/img/faces/6-image.jpg"
+  }
+]
+}
